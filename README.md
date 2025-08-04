@@ -3,7 +3,7 @@
 A GitHub Actions workflow to automatically deploy static HTML sites to GitHub Pages whenever the `index.html` file is updated.
 
 ## Project URL
-https://roadmap.sh/projects/github-pages-deployment
+https://roadmap.sh/projects/github-actions-deployment-workflow
 
 ## Features
 
